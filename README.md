@@ -19,7 +19,7 @@ imap4.out: Records from Sep 27 2018 through Jul 08 2020
 imap4.py: Produces imap4.csv.  Deals with quirky HTML produced through July 8, 2020
 imaptest.py: Test program that searches INBOX rather than 'All Mail'
 imaptest.out: Output of imaptest.py
-imaptest0.py: Test program that looks for email from April that is in INBOX
+imaptest0.py: Test program that looks for email from one address that is in INBOX
 jsontocsv.py: Function to convert JSON to CSV (created by ChatGPT)
 parse.py: Test program for using lxml etree to find HTML tags
 ```
