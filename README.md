@@ -24,8 +24,8 @@ NOTE: You ought to use a venv to run these python3 programs.
 
 References:
 
-1. [https://gist.github.com/martinrusev/6121028] (https://gist.github.com/martinrusev/6121028)
-2. [https://support.google.com/accounts/answer/185833] (https://support.google.com/accounts/answer/185833)
-3. [https://stackoverflow.com/questions/64391561/macos-python-says-module-not-found-but-its-already-installed] (https://stackoverflow.com/questions/64391561/macos-python-says-module-not-found-but-its-already-installed)
-4. [https://stackoverflow.com/questions/42413678/retrieve-attribute-names-and-values-with-python-lxml-and-xpath] (https://stackoverflow.com/questions/42413678/retrieve-attribute-names-and-values-with-python-lxml-and-xpath)
-5. [https://stackoverflow.com/questions/2365411/convert-unicode-to-ascii-without-errors-in-python] (https://stackoverflow.com/questions/2365411/convert-unicode-to-ascii-without-errors-in-python)
+1. https://gist.github.com/martinrusev/6121028
+2. https://support.google.com/accounts/answer/185833
+3. https://stackoverflow.com/questions/64391561/macos-python-says-module-not-found-but-its-already-installed
+4. https://stackoverflow.com/questions/42413678/retrieve-attribute-names-and-values-with-python-lxml-and-xpath
+5. https://stackoverflow.com/questions/2365411/convert-unicode-to-ascii-without-errors-in-python
